@@ -1,0 +1,17 @@
+config.json
+*.db
+gocommerce
+.env
+
+vendor/
+.idea
+.vscode
+*.iml
+
+.DS_Store
+www/dist/
+www/.DS_Store
+www/node_modules
+npm-debug.log
+builds/
+releases/

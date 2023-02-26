@@ -1,0 +1,9 @@
+[build]
+  publish = "www"
+  command = "exit 0"
+
+[[redirects]]
+from = "/*"
+to = "https://github.com/netlify/gocommerce"
+status = 302
+force = true
